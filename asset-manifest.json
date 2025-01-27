@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/news-app-redux-toolkit/static/css/main.dcd7e787.css",
+    "main.js": "/news-app-redux-toolkit/static/js/main.be9790d5.js",
+    "static/js/488.e06b9e0e.chunk.js": "/news-app-redux-toolkit/static/js/488.e06b9e0e.chunk.js",
+    "index.html": "/news-app-redux-toolkit/index.html",
+    "main.dcd7e787.css.map": "/news-app-redux-toolkit/static/css/main.dcd7e787.css.map",
+    "main.be9790d5.js.map": "/news-app-redux-toolkit/static/js/main.be9790d5.js.map",
+    "488.e06b9e0e.chunk.js.map": "/news-app-redux-toolkit/static/js/488.e06b9e0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcd7e787.css",
+    "static/js/main.be9790d5.js"
+  ]
+}
